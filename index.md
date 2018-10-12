@@ -5,4 +5,5 @@ navigation_weight: 1
 ---
 
 ## Hello People
- I am a gihub expert
+![Ngenge](ngenge.jpg)
+ Hello there. I am called Ngenge Senior.Welcome to my site. Here, we will be doing lots of cool stuffs about Kotlin programming tips and Android development
