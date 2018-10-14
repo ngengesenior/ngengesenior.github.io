@@ -6,7 +6,8 @@ In Kotlin, a function always returns a value.
 # Declaring functions
 Functions in Kotlin are declared as follows
 
-fun <function name>(<param1:Type>,<param2:Type>,...<paramN:Type>):<returntype>{ func body}
+<code>fun <function name>(<param1:Type>,<param2:Type>,...<paramN:Type>):<returntype>{ func body}
+</code>
 
 
 Let us get a quick example of a function
